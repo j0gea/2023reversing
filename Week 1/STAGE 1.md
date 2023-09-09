@@ -1,5 +1,3 @@
-# 제목 없음
-
 ## 1주차 : **STAGE 1** - Reverse Engineering Introduction
 
 ### 커리큘럼 소개
