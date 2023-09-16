@@ -8,5 +8,5 @@
 
 | 1주차 | [Stage 1](https://github.com/j0gea/2023reversing/blob/main/Week%201/STAGE%201.md) |
 | --- | --- |
-| 2주차 |  |
+| 2주차 | [Stage 2](https://github.com/j0gea/2023reversing/blob/main/Week2/STAGE%202.md)  |
 | 3주차 |  |
