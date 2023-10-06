@@ -1,4 +1,4 @@
-## 2주차 : **STAGE 1** - Binary & Analysis
+## 2주차 : **STAGE 2** - Binary & Analysis
 
 ### Background: Binary
 
